@@ -329,7 +329,8 @@ footer .container{
 
 @media (min-width: 1200px){
     .contenedor{
-        display: flex;     
+        display: flex;
+        flex-direction: row;     
     }
        
     .div-2 #card{
